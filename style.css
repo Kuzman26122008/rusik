@@ -1,0 +1,33 @@
+body {
+	background-color: #FF7373;
+	color: #ffffff;
+	font-family: sans-serif;
+}
+
+a {
+	color: #C9F76F;
+}
+
+.Human {
+	float: right;
+}
+
+p, a, ol, ul, table, h5 {
+	font-size: 25px;
+}
+
+input, textarea {
+	background-color: #C9F76F;
+	color: red;
+	height: 30px;
+	width: 200px;
+	font-size: 15px;
+}
+
+button {
+	background-color: #C9F76F;
+	height: 30px;
+	width: 200px;
+	color: red;
+	font-size: 15px;
+}
